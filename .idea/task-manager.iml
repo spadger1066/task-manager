@@ -14,5 +14,6 @@
     <orderEntry type="library" name="@types/express" level="application" />
     <orderEntry type="library" name="@types/core-js" level="application" />
     <orderEntry type="library" name="@types/sharp" level="application" />
+    <orderEntry type="library" name="@types/jest" level="application" />
   </component>
 </module>
